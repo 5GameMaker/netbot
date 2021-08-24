@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "@types/node": "^16.7.1",
+    "@types/node-fetch": "^2.5.12",
+    "colors": "^1.4.0",
+    "node-fetch": "^2.6.1"
+  },
+  "name": "netbot",
+  "version": "1.0.0",
+  "description": "Ultimate network scanner",
+  "main": "build/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/5GameMaker/netbot.git"
+  },
+  "author": "buj",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/5GameMaker/netbot/issues"
+  },
+  "homepage": "https://github.com/5GameMaker/netbot#readme"
+}
